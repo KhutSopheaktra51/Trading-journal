@@ -1,4 +1,5 @@
 # 📈 TradeLog — Trading Journal
+URL link🔗 : https://aleanjournalfx.up.railway.app/
 
 A professional, dark-themed trading journal built with pure PHP + SQLite.
 No framework, no MySQL setup needed — just PHP.
